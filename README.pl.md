@@ -1,14 +1,14 @@
-## Hi there, my name is Filip <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+## Cześć, nazywam się Filip <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-_Also available in: [Polski](README.pl.md)_
+_Dostępne również w wersji po: [English](README.md)_
 
-I'm a 3rd-year computer science student, passionate about building beautiful responsive websites using React. Also interested in software engineering with the intention of becoming Full Stack Developer. My plans for the upcoming time also include learning web development in AWS cloud. Focused on growth and development in IT.
+Jestem studentem 3 roku informatyki, dodatkowo uczę się tworzyć responsywne strony internetowe z wykorzystaniem Reacta. Interesuje się również inżynierią oprogramowania, a w przyszłości chciałbym zostać Full Stack Developerem. W najbliższym czasie planuje również nauke technologii webowych w chmurze AWS.
 
-- ✍ You can find my CV [here](https://github.com/filipciesielski7/Portfolio/blob/master/public/static/CV_Filip_Ciesielski.pdf), on [portfolio](https://filipciesielski7.github.io/Portfolio/) website or <a href="https://www.linkedin.com/in/filip-ciesielski/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>
-- 📫 How to reach me? Write [filip.ciesielski@protonmail.com](mailto:filip.ciesielski@protonmail.com?subject=[GitHub]%20Source%20Han%20Sans) or call [+48 790 608 198](tel:790608198)
-- 🌍 In addition to programming languages I speak Polish🇵🇱, English🇬🇧 and German🇩🇪
+- ✍ Moje CV odnaleźć można [tutaj](https://github.com/filipciesielski7/Portfolio/blob/master/public/static/CV_Filip_Ciesielski.pdf), na stronie [portfolio](https://filipciesielski7.github.io/Portfolio/) lub <a href="https://www.linkedin.com/in/filip-ciesielski/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>
+- 📫 Jak się ze mną skontakować? Napisz [filip.ciesielski@protonmail.com](mailto:filip.ciesielski@protonmail.com?subject=[GitHub]%20Source%20Han%20Sans) lub zadzwoń [+48 790 608 198](tel:790608198)
+- 🌍 Oprócz języków programowania mówię po Polsku🇵🇱, Angielsku🇬🇧 i Niemiecku🇩🇪
 
-### Skills
+### Umiejętności
 
 ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
 ![IntelliJ IDEA](https://img.shields.io/static/v1?style=for-the-badge&message=IntelliJ+IDEA&color=000000&logo=IntelliJ+IDEA&logoColor=FFFFFF&label=)
@@ -25,7 +25,7 @@ I'm a 3rd-year computer science student, passionate about building beautiful res
 ![BEM](https://img.shields.io/static/v1?style=for-the-badge&message=BEM&color=000000&logo=BEM&logoColor=FFFFFF&label=)
 ![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=)
 
-### Academic
+### Studia
 
 ![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=white&logo=Java&logoColor=0C83BD&label=)
 ![Spring](https://img.shields.io/static/v1?style=for-the-badge&message=Spring&color=6DB33F&logo=Spring&logoColor=FFFFFF&label=)
@@ -34,7 +34,7 @@ I'm a 3rd-year computer science student, passionate about building beautiful res
 ![Flask](https://img.shields.io/static/v1?style=for-the-badge&message=Flask&color=000000&logo=Flask&logoColor=FFFFFF&label=)
 ![PL/SQL](https://img.shields.io/static/v1?style=for-the-badge&message=pl/sql&color=F80000&logo=Oracle&logoColor=FFFFFF&label=)
 
-### Currently learning
+### Aktualnie uczę się
 
 ![Amazon AWS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+AWS&color=232F3E&logo=Amazon+AWS&logoColor=FFFFFF&label=)
 ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)
