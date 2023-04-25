@@ -1,7 +1,7 @@
 ## Hi there, my name is Filip 👋🏻
 _Also available in: [Polski](README.pl.md)_
 
-I'm junior cloud engineer at Transition Technologies PSC and a 4th-year computer science student at Poznan University of Technology. Passionate about building scalable cloud-based solutions using AWS, also experienced in web development. My plans for the upcoming time include achieving AWS Certificates. Focused on growth and development in IT.
+I'm a junior cloud engineer at Transition Technologies PSC, with a degree in computer science from Poznan University of Technology. I'm passionate about designing and implementing innovative cloud-based solutions using AWS, and have also experience in web development. Currently, I'm working towards achieving AWS Solutions Architect Associate certification to further advance my cloud engineering skills.
 
 - ✍ You can find my CV on <a href="https://www.linkedin.com/in/filip-ciesielski/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>
 - 📫 How to reach me? Write [filip.ciesielski@protonmail.com](mailto:filip.ciesielski@protonmail.com?subject=[GitHub]%20Source%20Han%20Sans) or call [+48 790 608 198](tel:790608198)
@@ -14,6 +14,8 @@ I'm junior cloud engineer at Transition Technologies PSC and a 4th-year computer
 ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
 ![Serverless](https://img.shields.io/static/v1?style=for-the-badge&message=Serverless&color=FD5750&logo=Serverless&logoColor=FFFFFF&label=)
+![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
+![GitLab](https://img.shields.io/static/v1?style=for-the-badge&message=CI/CD&color=FC6D26&logo=GitLab&logoColor=FFFFFF&label=)
 ![PL/SQL](https://img.shields.io/static/v1?style=for-the-badge&message=pl/sql&color=yellow&logo=Oracle&logoColor=FFFFFF&label=)
 
 
@@ -27,8 +29,8 @@ I'm junior cloud engineer at Transition Technologies PSC and a 4th-year computer
 
 ### Currently learning
 
-![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
-![GitLab](https://img.shields.io/static/v1?style=for-the-badge&message=CI/CD&color=FC6D26&logo=GitLab&logoColor=FFFFFF&label=)
+![Kubernetes](https://img.shields.io/static/v1?style=for-the-badge&message=Kubernetes&color=326CE5&logo=Kubernetes&logoColor=FFFFFF&label=)
+![Terraform](https://img.shields.io/static/v1?style=for-the-badge&message=Terraform&color=7B42BC&logo=Terraform&logoColor=FFFFFF&label=)
 
 <!--
 **filipciesielski7/filipciesielski7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

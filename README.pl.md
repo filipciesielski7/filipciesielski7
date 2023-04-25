@@ -2,7 +2,7 @@
 
 _Dostępne również w wersji po: [English](README.md)_
 
-Pracuję jako junior cloud engineer w Transition Technologies PSC i jestem na 7 semestrze informatyki na Politechnice Poznańskiej. Oprócz tworzenia rozwiązań chmurowych przy pomocy AWSa, mam również doświadczenie w tworzeniu aplikacji internetowych z wykorzystaniem Reacta.
+Pracuję jako junior cloud engineer w Transition Technologies PSC i jestem absolwentem informatyki na Politechnice Poznańskiej. Z pasją projektuję i wdrażam innowacyjne rozwiązania oparte na chmurze AWS. Mam również doświadczenie w tworzeniu aplikacji internetowych. Obecnie przygotowuję się do uzyskania certyfikatu AWS Solutions Architect Associate, aby dalej rozwijać swoje umiejętności chmurowe.
 
 - ✍ Moje CV odnaleźć można na <img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>
 - 📫 Jak się ze mną skontakować? Napisz [filip.ciesielski@protonmail.com](mailto:filip.ciesielski@protonmail.com?subject=[GitHub]%20Source%20Han%20Sans) lub zadzwoń [+48 790 608 198](tel:790608198)
@@ -15,6 +15,8 @@ Pracuję jako junior cloud engineer w Transition Technologies PSC i jestem na 7 
 ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
 ![Serverless](https://img.shields.io/static/v1?style=for-the-badge&message=Serverless&color=FD5750&logo=Serverless&logoColor=FFFFFF&label=)
+![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
+![GitLab](https://img.shields.io/static/v1?style=for-the-badge&message=CI/CD&color=FC6D26&logo=GitLab&logoColor=FFFFFF&label=)
 ![PL/SQL](https://img.shields.io/static/v1?style=for-the-badge&message=pl/sql&color=yellow&logo=Oracle&logoColor=FFFFFF&label=)
 
 
@@ -28,8 +30,8 @@ Pracuję jako junior cloud engineer w Transition Technologies PSC i jestem na 7 
 
 ### Aktualnie uczę się
 
-![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
-![GitLab](https://img.shields.io/static/v1?style=for-the-badge&message=CI/CD&color=FC6D26&logo=GitLab&logoColor=FFFFFF&label=)
+![Kubernetes](https://img.shields.io/static/v1?style=for-the-badge&message=Kubernetes&color=326CE5&logo=Kubernetes&logoColor=FFFFFF&label=)
+![Terraform](https://img.shields.io/static/v1?style=for-the-badge&message=Terraform&color=7B42BC&logo=Terraform&logoColor=FFFFFF&label=)
 
 <!--
 **filipciesielski7/filipciesielski7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
