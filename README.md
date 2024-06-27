@@ -1,7 +1,8 @@
 ## Hi there, my name is Filip 👋🏻
+
 _Also available in: [Polski](README.pl.md)_
 
-I'm a junior cloud engineer at Transition Technologies PSC, with a degree in computer science from Poznan University of Technology. I'm passionate about designing and implementing innovative cloud-based solutions using AWS, and have also experience in web development. Currently, I'm working towards achieving AWS Solutions Architect Associate certification to further advance my cloud engineering skills.
+I'm a DevOps & Cloud Engineer at Transition Technologies PSC, with a degree in computer science from Poznan University of Technology. I'm passionate about designing and implementing innovative cloud-based solutions using AWS, and have also experience in web development. Currently, I'm working towards achieving AWS Solutions Architect Associate certification to further advance my cloud engineering skills.
 
 - ✍ You can find my CV on <a href="https://www.linkedin.com/in/filip-ciesielski/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>
 - 📫 How to reach me? Write [filip.ciesielski@protonmail.com](mailto:filip.ciesielski@protonmail.com?subject=[GitHub]%20Source%20Han%20Sans) or call [+48 790 608 198](tel:790608198)
@@ -18,9 +19,11 @@ I'm a junior cloud engineer at Transition Technologies PSC, with a degree in com
 ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
 ![Jenkins](https://img.shields.io/static/v1?style=for-the-badge&message=Jenkins&color=D24939&logo=Jenkins&logoColor=FFFFFF&label=)
 ![GitLab](https://img.shields.io/static/v1?style=for-the-badge&message=CI/CD&color=FC6D26&logo=GitLab&logoColor=FFFFFF&label=)
+![Groovy](https://img.shields.io/static/v1?style=for-the-badge&message=Groovy&color=4298B8&logo=Apache+Groovy&logoColor=FFFFFF&label=)
+![PowerShell](https://img.shields.io/static/v1?style=for-the-badge&message=PowerShell&color=5391FE&logo=PowerShell&logoColor=FFFFFF&label=)
+![Bash](https://img.shields.io/static/v1?style=for-the-badge&message=Bash&color=4EAA25&logo=GNU+Bash&logoColor=FFFFFF&label=)
 ![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)
 ![PL/SQL](https://img.shields.io/static/v1?style=for-the-badge&message=pl/sql&color=yellow&logo=Oracle&logoColor=FFFFFF&label=)
-
 
 ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=blue&logo=React&logoColor=white&label=)
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=yellow&logo=JavaScript&logoColor=white&label=)

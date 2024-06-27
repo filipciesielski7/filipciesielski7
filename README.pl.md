@@ -2,7 +2,7 @@
 
 _Dostępne również w wersji po: [English](README.md)_
 
-Pracuję jako junior cloud engineer w Transition Technologies PSC i jestem absolwentem informatyki na Politechnice Poznańskiej. Z pasją projektuję i wdrażam innowacyjne rozwiązania oparte na chmurze AWS. Mam również doświadczenie w tworzeniu aplikacji internetowych. Obecnie przygotowuję się do uzyskania certyfikatu AWS Solutions Architect Associate, aby dalej rozwijać swoje umiejętności chmurowe.
+Pracuję jako DevOps & Cloud Engineer w Transition Technologies PSC i jestem absolwentem informatyki na Politechnice Poznańskiej. Z pasją projektuję i wdrażam innowacyjne rozwiązania oparte na chmurze AWS. Mam również doświadczenie w tworzeniu aplikacji internetowych. Obecnie przygotowuję się do uzyskania certyfikatu AWS Solutions Architect Associate, aby dalej rozwijać swoje umiejętności chmurowe.
 
 - ✍ Moje CV odnaleźć można na <img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>
 - 📫 Jak się ze mną skontakować? Napisz [filip.ciesielski@protonmail.com](mailto:filip.ciesielski@protonmail.com?subject=[GitHub]%20Source%20Han%20Sans) lub zadzwoń [+48 790 608 198](tel:790608198)
@@ -19,6 +19,9 @@ Pracuję jako junior cloud engineer w Transition Technologies PSC i jestem absol
 ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
 ![Jenkins](https://img.shields.io/static/v1?style=for-the-badge&message=Jenkins&color=D24939&logo=Jenkins&logoColor=FFFFFF&label=)
 ![GitLab](https://img.shields.io/static/v1?style=for-the-badge&message=CI/CD&color=FC6D26&logo=GitLab&logoColor=FFFFFF&label=)
+![Groovy](https://img.shields.io/static/v1?style=for-the-badge&message=Groovy&color=4298B8&logo=Apache+Groovy&logoColor=FFFFFF&label=)
+![PowerShell](https://img.shields.io/static/v1?style=for-the-badge&message=PowerShell&color=5391FE&logo=PowerShell&logoColor=FFFFFF&label=)
+![Bash](https://img.shields.io/static/v1?style=for-the-badge&message=Bash&color=4EAA25&logo=GNU+Bash&logoColor=FFFFFF&label=)
 ![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)
 ![PL/SQL](https://img.shields.io/static/v1?style=for-the-badge&message=pl/sql&color=yellow&logo=Oracle&logoColor=FFFFFF&label=)
 
