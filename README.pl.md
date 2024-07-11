@@ -11,8 +11,9 @@ Pracuję jako DevOps & Cloud Engineer w Transition Technologies PSC i jestem abs
 ### Umiejętności
 
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=E44C30&logo=Git&logoColor=FFFFFF&label=)
-![Amazon AWS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+AWS&color=232F3E&logo=Amazon+AWS&logoColor=FFFFFF&label=)
+![Amazon Web Services](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+Web+Services&color=232F3E&logo=Amazon+Web+Services&logoColor=FFFFFF&label=)
 ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)
+![NestJS](https://img.shields.io/static/v1?style=for-the-badge&message=NestJS&color=E0234E&logo=NestJS&logoColor=FFFFFF&label=)
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
 ![Terraform](https://img.shields.io/static/v1?style=for-the-badge&message=Terraform&color=7B42BC&logo=Terraform&logoColor=FFFFFF&label=)
 ![Serverless](https://img.shields.io/static/v1?style=for-the-badge&message=Serverless&color=FD5750&logo=Serverless&logoColor=FFFFFF&label=)
@@ -25,7 +26,6 @@ Pracuję jako DevOps & Cloud Engineer w Transition Technologies PSC i jestem abs
 ![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)
 ![PL/SQL](https://img.shields.io/static/v1?style=for-the-badge&message=pl/sql&color=yellow&logo=Oracle&logoColor=FFFFFF&label=)
 
-
 ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=blue&logo=React&logoColor=white&label=)
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=yellow&logo=JavaScript&logoColor=white&label=)
 ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
@@ -37,6 +37,7 @@ Pracuję jako DevOps & Cloud Engineer w Transition Technologies PSC i jestem abs
 ### Aktualnie uczę się
 
 ![Kubernetes](https://img.shields.io/static/v1?style=for-the-badge&message=Kubernetes&color=326CE5&logo=Kubernetes&logoColor=FFFFFF&label=)
+![GraphQL](https://img.shields.io/static/v1?style=for-the-badge&message=GraphQL&color=E10098&logo=GraphQL&logoColor=FFFFFF&label=)
 
 <!--
 **filipciesielski7/filipciesielski7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
