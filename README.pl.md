@@ -5,7 +5,7 @@ _Dostępne również w wersji po: [English](README.md)_
 Pracuję jako DevOps & Cloud Engineer w Transition Technologies PSC i jestem absolwentem informatyki na Politechnice Poznańskiej. Z pasją projektuję i wdrażam innowacyjne rozwiązania oparte na chmurze AWS. Mam również doświadczenie w tworzeniu aplikacji internetowych. Obecnie przygotowuję się do uzyskania certyfikatu AWS Solutions Architect Associate, aby dalej rozwijać swoje umiejętności chmurowe.
 
 - ✍ Moje CV odnaleźć można na <img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>
-- 📫 Jak się ze mną skontakować? Napisz [filip.ciesielski@protonmail.com](mailto:filip.ciesielski@protonmail.com?subject=[GitHub]%20Source%20Han%20Sans) lub zadzwoń [+48 790 608 198](tel:790608198)
+- 📫 Jak się ze mną skontakować? Napisz [filip.ciesielski@protonmail.com](mailto:filip.ciesielski@protonmail.com?subject=[GitHub]%20Source%20Han%20Sans) lub zadzwoń [+48 siedem90 sześć08 jeden98](tel:790608198)
 - 🌍 Oprócz języków programowania mówię po Polsku🇵🇱, Angielsku🇬🇧 i Niemiecku🇩🇪
 
 ### Umiejętności

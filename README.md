@@ -5,7 +5,7 @@ _Also available in: [Polski](README.pl.md)_
 I'm a DevOps & Cloud Engineer at Transition Technologies PSC, with a degree in computer science from Poznan University of Technology. I'm passionate about designing and implementing innovative cloud-based solutions using AWS, and have also experience in web development. Currently, I'm working towards achieving AWS Solutions Architect Associate certification to further advance my cloud engineering skills.
 
 - ✍ You can find my CV on <a href="https://www.linkedin.com/in/filip-ciesielski/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>
-- 📫 How to reach me? Write [filip.ciesielski@protonmail.com](mailto:filip.ciesielski@protonmail.com?subject=[GitHub]%20Source%20Han%20Sans) or call [+48 790 608 198](tel:790608198)
+- 📫 How to reach me? Write [filip.ciesielski@protonmail.com](mailto:filip.ciesielski@protonmail.com?subject=[GitHub]%20Source%20Han%20Sans) or call [+48 seven90 six08 one98](tel:790608198)
 - 🌍 In addition to programming languages I speak Polish🇵🇱, English🇬🇧 and German🇩🇪
 
 ### Skills
